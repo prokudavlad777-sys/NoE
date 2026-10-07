@@ -1,0 +1,10 @@
+id: tropical_workbench
+material: CRAFTING_TABLE
+name: "&aTropical Workbench"
+model-data: 4001
+hardness: 3.0
+display: false
+drops:
+  - self
+interact:
+  vanilla: true

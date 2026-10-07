@@ -1,0 +1,11 @@
+id: tropical_fruit
+material: APPLE
+name: "&aTropical Fruit"
+model-data: 5001
+food:
+  nutrition: 6
+  saturation: 1.2
+effects:
+  regeneration:
+    duration: 100
+    amplifier: 0

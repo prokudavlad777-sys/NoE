@@ -1,0 +1,6 @@
+id: pistol_ammo
+material: IRON_NUGGET
+name: "&7Pistol Ammo"
+lore:
+  - "&8Боєприпаси для револьвера."
+model-data: 2101

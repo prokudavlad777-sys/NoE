@@ -1,0 +1,8 @@
+id: tiger_poncho
+type: ARMOR
+slot: CHEST
+material: LEATHER_CHESTPLATE
+name: "&6Tiger Poncho"
+model-data: 3001
+melee-protection: 0.75
+firearm-protection: 0.45

@@ -1,0 +1,28 @@
+NoE License 1.0
+
+Copyright (c) 2026 NoE authors
+
+Permission is granted, free of charge, to any person obtaining a copy of this
+software and associated files (the "Software"), to use, copy, modify, merge,
+publish and distribute the Software, including in commercial projects and on
+commercial servers, subject to the following conditions:
+
+1. Attribution. Every copy or substantial portion of the Software, in source or
+   binary form, must keep this license text and the copyright notice.
+
+2. Modified versions must be marked as modified and must not use the name "NoE"
+   in a way that suggests they are the official release.
+
+3. You may not sell the unmodified Software, or a plugin that consists mostly of
+   it, as a standalone product. Selling content, configurations or plugins built
+   ON TOP of NoE through its API is allowed.
+
+4. The Software contains no code from ItemsAdder, Oraxen or other third-party
+   item plugins; it was written from scratch. Minecraft, Paper and other names
+   are trademarks of their respective owners and are not covered by this license.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE
+SOFTWARE.

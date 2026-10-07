@@ -1,0 +1,36 @@
+name: NoE
+version: '${version}'
+main: ua.noe.NoEPlugin
+api-version: '26.3'
+description: NoE - Next Object Engine. Custom items, weapons, armor, blocks and resource packs.
+authors: [NoE]
+load: POSTWORLD
+permissions:
+  noe.admin:
+    description: Full access to NoE
+    default: op
+    children:
+      noe.give: true
+      noe.reload: true
+      noe.list: true
+      noe.info: true
+      noe.pack: true
+      noe.menu: true
+  noe.give:
+    description: /noe give
+    default: false
+  noe.reload:
+    description: /noe reload
+    default: false
+  noe.list:
+    description: /noe list
+    default: false
+  noe.info:
+    description: /noe info
+    default: false
+  noe.pack:
+    description: /noe pack
+    default: false
+  noe.menu:
+    description: /noe menu
+    default: false

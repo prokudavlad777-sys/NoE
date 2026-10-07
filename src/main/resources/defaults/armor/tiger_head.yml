@@ -1,0 +1,8 @@
+id: tiger_head
+type: ARMOR
+slot: HEAD
+material: LEATHER_HELMET
+name: "&6Tiger Head"
+model-data: 3002
+melee-protection: 0.10
+firearm-protection: 0.05

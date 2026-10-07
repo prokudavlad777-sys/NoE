@@ -1,0 +1,17 @@
+id: revolver
+type: FIREARM
+material: IRON_HORSE_ARMOR
+name: "&7Revolver"
+lore:
+  - "&7Right click - shoot"
+  - "&7F - reload"
+damage: 25
+ammo: pistol_ammo
+magazine: 6
+reload-time: 40
+fire-rate: 12
+range: 60
+model-data: 2001
+sounds:
+  shoot: "minecraft:entity.firework_rocket.blast"
+  reload: "minecraft:item.crossbow.loading_end"

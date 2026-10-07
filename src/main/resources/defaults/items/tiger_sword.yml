@@ -1,0 +1,10 @@
+id: tiger_sword
+material: DIAMOND_SWORD
+name: "&6Tiger Sword"
+lore:
+  - "&7Зроблений із матеріалів тигра."
+model-data: 1001
+durability: 500
+damage: 12
+enchants:
+  sharpness: 2

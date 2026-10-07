@@ -1,0 +1,28 @@
+# NoE 1.0 configuration
+
+# Watch plugins/NoE for file changes and reload automatically.
+auto-reload: true
+
+# Maximum damage reduction from NoE armor (0.0 - 1.0).
+armor:
+  max-protection: 0.95
+
+resource-pack:
+  enabled: true
+  auto-generate: true
+  send-on-join: true
+  required: false
+  prompt: "&6NoE &7resource pack"
+  # pack.mcmeta formats. Check the Minecraft wiki for the exact 26.3 numbers.
+  # A wide range avoids the "made for another version" warning.
+  min-format: 84
+  max-format: 200
+  description: "NoE generated resource pack"
+  # Public URL of the pack. Leave empty to use the built-in HTTP host below.
+  url: ""
+  host:
+    enabled: false
+    bind-address: "0.0.0.0"
+    port: 8765
+    # Address players use to reach this server, e.g. "play.example.com" or an IP.
+    public-address: "127.0.0.1"
